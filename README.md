@@ -6,10 +6,7 @@ It is built using [threejs](https://github.com/mrdoob/three.js), [react-three-fi
 
 Created by Tomas Gonzalez.
 
-# Example: 
-https://tomasgonzalez.github.io/3d-portfolio/
 
-https://user-images.githubusercontent.com/26396804/193622132-c7e12305-3cbf-4c4c-8992-2f58104a5068.mp4
 
 
 # Get started!
@@ -39,9 +36,6 @@ All the settings that you will ever need to touch are set inside the
 
 `src/configs.js`, `./constants/pageData.js`, and `src/theme.js`
 
-## Video tutorial:
-
-https://youtu.be/fC7e2ONfhUc
 
 ## Deploy to github pages
 
@@ -55,7 +49,4 @@ After that run:
 
 And thats It! It will automatically deploy to `https://{username}.github.io/{repo-name}`
 
-# More info
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tomasgonzalez)
 
