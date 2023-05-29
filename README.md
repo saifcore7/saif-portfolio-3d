@@ -4,9 +4,9 @@ It is a highly customizable dev portfolio template that features astonishing 3D 
 
 It is built using [threejs](https://github.com/mrdoob/three.js), [react-three-fiber](https://github.com/pmndrs/react-three-fiber), and [@react-three/drei](https://github.com/pmndrs/drei).
 
-Created by Tomas Gonzalez.
+Created by Saif Ali Khan.
 
-
+Visit the website here [saif-potfolio-3d](https://saifcore7.github.io/saif-portfolio-3d)
 
 
 # Get started!
